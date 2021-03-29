@@ -1,0 +1,42 @@
+.dashboard-main-div{
+    background-image: url('../Assets/capsule.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.dashboard-main-div-2{
+    background-image: url('../Assets/capsule2.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.label-style{
+    color: white;
+    font-size: 14px;
+    font-weight: 600;
+}
+.select-item-box{
+    width: 65%;
+    height: 3em;
+}
+.label-style-2{
+    color: white;
+    font-size: 14px;
+    font-weight: 600;
+}
+.welcome-text{
+    font-size: 68px;
+    margin-bottom: 3%;
+}
+.margin-class{
+    margin-bottom: 30%;
+}
+.header-div{
+    display: flex;
+}
+.logout-btn{
+    margin-left: 24%;
+    height: 3em;
+    width: 7em;
+    margin-top: 5%;
+    font-weight: 600;
+    font-size: 14px;
+}
